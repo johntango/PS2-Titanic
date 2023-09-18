@@ -13,8 +13,8 @@ Normalize Data: Scale features to ensure they have similar scales, which helps w
 Remove Unnecessary Columns: Drop columns that aren't useful for the regression analysis.
 
 '''
-# read in train.csv
-train = pd.read_csv('train.csv')
+# read in Titanic data set
+train = ????
 st.write("Titanic Data")
 
 
